@@ -21,10 +21,6 @@ The model is built using a CNN architecture with the following components:
 
 - **Source**:  Kaggle
 - **Classes**: Normal, Pneumonia, Tuberculosis,COVID-19
-- **Preprocessing**:
-  - Image resizing (e.g., 224x224)
-  - Normalization
-  - Data augmentation (rotation, flipping, zoom) to improve generalization
 
 ---
 ## Requirements
