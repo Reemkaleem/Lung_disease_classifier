@@ -30,6 +30,6 @@ The model is built using a CNN architecture with the following components:
 ## Requirements
 
 Install the required packages using:
-requirements.txt
+-requirements.txt
 
 ##Run the code
